@@ -1,8 +1,11 @@
-## Hi there 👋
+## Hi there 👋  [![](https://visitcount.itsvg.in/api?id=Mustapha-who&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on a rental house application
 - 🌱 I’m currently learning Next.js, Node.js, and Prisma
 - 📫 How to reach me: jerbimustapha2@gmail.com
+
+## About me 
+My tech journey began back in high school when I first discovered computer science. What started as a challenge soon turned into a genuine passion 🖥️. The more I learned, the more curious I became, and before I knew it, I was hooked and eager to dive deeper into everything tech had to offer. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mustapha-jerbi-010327258/) 
@@ -36,7 +39,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Mustapha-who&theme=dark&hide_border=false)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mustapha-who&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
