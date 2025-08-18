@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a rental house application
 - 🌱 I’m currently learning Next.js, Node.js, and Prisma
 - 📫 How to reach me: jerbimustapha2@gmail.com
