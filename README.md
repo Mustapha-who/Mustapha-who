@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Next.js, Node.js, and Prisma
 - 📫 How to reach me: jerbimustapha2@gmail.com
 
-## About me 
+## 💡 About me 
 My tech journey began back in high school when I first discovered computer science. What started as a challenge soon turned into a genuine passion 🖥️. The more I learned, the more curious I became, and before I knew it, I was hooked and eager to dive deeper into everything tech had to offer. 
 
 ## 🌐 Socials:
