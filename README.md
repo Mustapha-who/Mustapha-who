@@ -8,7 +8,7 @@
 My tech journey began back in high school when I first discovered computer science. What started as a challenge soon turned into a genuine passion 🖥️. The more I learned, the more curious I became, and before I knew it, I was hooked and eager to dive deeper into everything tech had to offer. 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mustapha-jerbi-010327258/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustapha-jerbi/)
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
